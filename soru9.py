@@ -1,4 +1,4 @@
-kelime= input("Bir Kelime Girinz:")
+kelime= input("Bir Kelime Giriniz:")
 harf = input("Silinecek Harfi Giriniz:")
 
 yeni_kelime = ""
