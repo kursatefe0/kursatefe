@@ -1,5 +1,5 @@
 kelime= input("Bir Kelime Giriniz: ")
-sesliler= "aeıioöuüAEIİOÜ"
+sesliler= "aeıioöuüAEIİOÖUÜ"
 
 kac_sesli = 0
 for harf in kelime:
